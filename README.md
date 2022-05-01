@@ -1,4 +1,4 @@
-    Search Contacts
+    JavaScript - Search - Contacts
 
 Virtual Library where user can search people
 
